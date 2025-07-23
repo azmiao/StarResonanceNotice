@@ -1,0 +1,2 @@
+# StarResonanceNotice
+适用于YuiChyanBot的星痕共鸣提醒小助手
