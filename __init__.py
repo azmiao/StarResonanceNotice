@@ -16,10 +16,20 @@ notice_data_list: List[Notice] = load_notices(notice_data_path)
 
 # 循环创建定时任务
 for notice in notice_data_list:
+    if not notice.enable:
+        continue
     # 自定义任务ID
     custom_id = f'{notice.name}'
     # 装饰器函数
-    @sv.scheduled_job(custom_id=custom_id, day=notice.day, day_of_week=notice.day_of_week, hour=notice.hour, minute=notice.minute)
+    @sv.scheduled_job(
+        custom_id=custom_id,
+        day=notice.day,
+        day_of_week=notice.day_of_week,
+        hour=notice.hour,
+        minute=notice.minute,
+        start_date=notice.start_date,
+        end_date=notice.end_date
+    )
     async def execute_job(_notice=notice):
         # 广播内容
         msg = f'◆星痕通知小助手提醒您：\n{_notice.name}'

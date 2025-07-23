@@ -1,25 +1,476 @@
 [
     {
-        "name": "商店刷新（每周）",
+        "name": "商店刷新(每周1/1)",
+        "enable": true,
         "content": "- 缤纷商店\n- 荣誉币商店\n- 友情点商店\n- 声望商店\n- 赛季积分商店\n- 协会商店\n- 家园商店",
         "day": null,
         "day_of_week": "0",
         "hour": "5",
         "minute": "0",
+        "start_date": null,
+        "end_date": null,
         "duration": null,
         "reward": []
     },
     {
-        "name": "讨伐领主（每天）",
+        "name": "讨伐领主(每天1/1)",
+        "enable": true,
         "content": null,
         "day": "*/1",
         "day_of_week": null,
         "hour": "20",
         "minute": "30",
+        "start_date": null,
+        "end_date": null,
         "duration": 90,
         "reward": [
             "绑钻",
             "声望"
+        ]
+    },
+    {
+        "name": "协会战舞(每周1/1)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "4",
+        "hour": "19",
+        "minute": "30",
+        "start_date": null,
+        "end_date": null,
+        "duration": 25,
+        "reward": [
+            "协会狩猎BUFF",
+            "协会币"
+        ]
+    },
+    {
+        "name": "协会狩猎(每周1/3)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "4",
+        "hour": "20",
+        "minute": "0",
+        "start_date": null,
+        "end_date": null,
+        "duration": 239,
+        "reward": [
+            "协会币",
+            "星拓箱",
+            "幻想材料",
+            "精炼金属片"
+        ]
+    },
+    {
+        "name": "协会狩猎(每周2/3)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "5",
+        "hour": "20",
+        "minute": "0",
+        "start_date": null,
+        "end_date": null,
+        "duration": 239,
+        "reward": [
+            "协会币",
+            "星拓箱",
+            "幻想材料",
+            "精炼金属片"
+        ]
+    },
+    {
+        "name": "协会狩猎(每周3/3)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "6",
+        "hour": "20",
+        "minute": "0",
+        "start_date": null,
+        "end_date": null,
+        "duration": 239,
+        "reward": [
+            "协会币",
+            "星拓箱",
+            "幻想材料",
+            "精炼金属片"
+        ]
+    },
+    {
+        "name": "一期-星光花火夜(每天1/5)",
+        "enable": false,
+        "content": "当前第1期 7/17-7/20，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-21",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "一期-星光花火夜(每天2/5)",
+        "enable": false,
+        "content": "当前第1期 7/17-7/20，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "44",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-21",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "一期-星光花火夜(每天3/5)",
+        "enable": false,
+        "content": "当前第1期 7/17-7/20，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "08",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-21",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "一期-星光花火夜(每天4/5)",
+        "enable": false,
+        "content": "当前第1期 7/17-7/20，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "32",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-21",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "一期-星光花火夜(每天5/5)",
+        "enable": false,
+        "content": "当前第1期 7/17-7/20，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "56",
+        "start_date": "2025-07-17",
+        "end_date": "2025-07-21",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "二期-星光花火夜(每天1/5)",
+        "enable": true,
+        "content": "当前第2期 7/25-7/26，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-27",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "二期-星光花火夜(每天2/5)",
+        "enable": true,
+        "content": "当前第2期 7/25-7/26，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "44",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-27",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "二期-星光花火夜(每天3/5)",
+        "enable": true,
+        "content": "当前第2期 7/25-7/26，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "08",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-27",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "二期-星光花火夜(每天4/5)",
+        "enable": true,
+        "content": "当前第2期 7/25-7/26，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "32",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-27",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "二期-星光花火夜(每天5/5)",
+        "enable": true,
+        "content": "当前第2期 7/25-7/26，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "56",
+        "start_date": "2025-07-25",
+        "end_date": "2025-07-27",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "三期-星光花火夜(每天1/5)",
+        "enable": true,
+        "content": "当前第3期 8/1-8/2，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-03",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "三期-星光花火夜(每天2/5)",
+        "enable": true,
+        "content": "当前第3期 8/1-8/2，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-03",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "三期-星光花火夜(每天3/5)",
+        "enable": true,
+        "content": "当前第3期 8/1-8/2，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-03",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "三期-星光花火夜(每天4/5)",
+        "enable": true,
+        "content": "当前第3期 8/1-8/2，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-03",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "三期-星光花火夜(每天5/5)",
+        "enable": true,
+        "content": "当前第3期 8/1-8/2，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-01",
+        "end_date": "2025-08-03",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "四期-星光花火夜(每天1/5)",
+        "enable": true,
+        "content": "当前第4期 8/8-8/9，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-10",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "四期-星光花火夜(每天2/5)",
+        "enable": true,
+        "content": "当前第4期 8/8-8/9，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-10",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "四期-星光花火夜(每天3/5)",
+        "enable": true,
+        "content": "当前第4期 8/8-8/9，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-10",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "四期-星光花火夜(每天4/5)",
+        "enable": true,
+        "content": "当前第4期 8/8-8/9，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-10",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "四期-星光花火夜(每天5/5)",
+        "enable": true,
+        "content": "当前第4期 8/8-8/9，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-08",
+        "end_date": "2025-08-10",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "五期-星光花火夜(每天1/5)",
+        "enable": true,
+        "content": "当前第5期 8/15-8/16，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-17",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "五期-星光花火夜(每天2/5)",
+        "enable": true,
+        "content": "当前第5期 8/15-8/16，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-17",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "五期-星光花火夜(每天3/5)",
+        "enable": true,
+        "content": "当前第5期 8/15-8/16，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-17",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "五期-星光花火夜(每天4/5)",
+        "enable": true,
+        "content": "当前第5期 8/15-8/16，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-17",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
+        ]
+    },
+    {
+        "name": "五期-星光花火夜(每天5/5)",
+        "enable": true,
+        "content": "当前第5期 8/15-8/16，共5期",
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "20",
+        "start_date": "2025-08-15",
+        "end_date": "2025-08-17",
+        "duration": 10,
+        "reward": [
+            "银币勋章"
         ]
     }
 ]

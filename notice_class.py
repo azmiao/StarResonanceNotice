@@ -7,11 +7,14 @@ from typing import Optional, List
 @dataclass
 class Notice:
     name: str
+    enable: bool = True
     content: Optional[str] = None
     day: Optional[str] = None
     day_of_week: Optional[str] = None
     hour: Optional[str] = None
     minute: Optional[str] = None
+    start_date: Optional[str] = None
+    end_date: Optional[str] = None
     duration: Optional[int] = None
     reward: List[str] = None
 
