@@ -1,0 +1,25 @@
+[
+    {
+        "name": "商店刷新",
+        "content": "- 缤纷商店\n- 荣誉币商店\n- 友情点商店\n- 声望商店\n- 赛季积分商店\n- 协会商店\n- 家园商店",
+        "day": null,
+        "day_of_week": "0",
+        "hour": "5",
+        "minute": "0",
+        "duration": null,
+        "reward": []
+    },
+    {
+        "name": "讨伐领主",
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "30",
+        "duration": 90,
+        "reward": [
+            "绑钻",
+            "声望"
+        ]
+    }
+]
