@@ -652,5 +652,167 @@
             "合金碎片",
             "随机装备(紫/金)"
         ]
+    },
+    {
+        "name": "维尔古城巡逻(今日1/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "9",
+        "minute": "15",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "维尔古城巡逻(今日2/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "14",
+        "minute": "15",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "维尔古城巡逻(今日3/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "19",
+        "minute": "15",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "山贼营地巡逻(今日1/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "10",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "山贼营地巡逻(今日2/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "15",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "山贼营地巡逻(今日3/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "20",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "姆克营地巡逻(今日1/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "11",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "姆克营地巡逻(今日2/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "16",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "姆克营地巡逻(今日3/3)",
+        "enable": true,
+        "content": null,
+        "day": "*/1",
+        "day_of_week": null,
+        "hour": "21",
+        "minute": "45",
+        "start_date": null,
+        "end_date": null,
+        "duration": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
     }
 ]
