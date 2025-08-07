@@ -43,6 +43,9 @@ for notice in notice_data_list:
             end_time = start_time + timedelta(minutes=_notice.duration)
             time_range = f"{start_time.strftime('%H:%M')}-{end_time.strftime('%H:%M')}"
             msg += f'\n活动时间：{time_range}'
+        # 下次时间
+        if _notice.next_time:
+            msg += f'\n下次时间：{_notice.next_time}'
         # 活动奖励
         if _notice.reward:
             msg += f'\n活动奖励：' + ', '.join(_notice.reward)

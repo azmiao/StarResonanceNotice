@@ -16,6 +16,7 @@ class Notice:
     start_date: Optional[str] = None
     end_date: Optional[str] = None
     duration: Optional[int] = None
+    next_time: Optional[str] = None
     reward: List[str] = None
 
 

@@ -109,6 +109,7 @@
         "start_date": "2025-07-17",
         "end_date": "2025-07-21",
         "duration": 10,
+        "next_time": "20:44",
         "reward": [
             "银币勋章"
         ]
@@ -124,6 +125,7 @@
         "start_date": "2025-07-17",
         "end_date": "2025-07-21",
         "duration": 10,
+        "next_time": "21:08",
         "reward": [
             "银币勋章"
         ]
@@ -139,6 +141,7 @@
         "start_date": "2025-07-17",
         "end_date": "2025-07-21",
         "duration": 10,
+        "next_time": "21:32",
         "reward": [
             "银币勋章"
         ]
@@ -154,6 +157,7 @@
         "start_date": "2025-07-17",
         "end_date": "2025-07-21",
         "duration": 10,
+        "next_time": "21:56",
         "reward": [
             "银币勋章"
         ]
@@ -184,6 +188,7 @@
         "start_date": "2025-07-25",
         "end_date": "2025-07-27",
         "duration": 10,
+        "next_time": "20:44",
         "reward": [
             "银币勋章"
         ]
@@ -199,6 +204,7 @@
         "start_date": "2025-07-25",
         "end_date": "2025-07-27",
         "duration": 10,
+        "next_time": "21:08",
         "reward": [
             "银币勋章"
         ]
@@ -214,6 +220,7 @@
         "start_date": "2025-07-25",
         "end_date": "2025-07-27",
         "duration": 10,
+        "next_time": "21:32",
         "reward": [
             "银币勋章"
         ]
@@ -229,6 +236,7 @@
         "start_date": "2025-07-25",
         "end_date": "2025-07-27",
         "duration": 10,
+        "next_time": "21:56",
         "reward": [
             "银币勋章"
         ]
@@ -250,7 +258,7 @@
     },
     {
         "name": "三期-星光花火夜(今日1/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第3期 8/1-8/2，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -259,13 +267,14 @@
         "start_date": "2025-08-01",
         "end_date": "2025-08-03",
         "duration": 10,
+        "next_time": "20:44",
         "reward": [
             "银币勋章"
         ]
     },
     {
         "name": "三期-星光花火夜(今日2/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第3期 8/1-8/2，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -274,13 +283,14 @@
         "start_date": "2025-08-01",
         "end_date": "2025-08-03",
         "duration": 10,
+        "next_time": "21:08",
         "reward": [
             "银币勋章"
         ]
     },
     {
         "name": "三期-星光花火夜(今日3/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第3期 8/1-8/2，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -289,13 +299,14 @@
         "start_date": "2025-08-01",
         "end_date": "2025-08-03",
         "duration": 10,
+        "next_time": "21:32",
         "reward": [
             "银币勋章"
         ]
     },
     {
         "name": "三期-星光花火夜(今日4/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第3期 8/1-8/2，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -304,13 +315,14 @@
         "start_date": "2025-08-01",
         "end_date": "2025-08-03",
         "duration": 10,
+        "next_time": "21:56",
         "reward": [
             "银币勋章"
         ]
     },
     {
         "name": "三期-星光花火夜(今日5/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第3期 8/1-8/2，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -334,6 +346,7 @@
         "start_date": "2025-08-08",
         "end_date": "2025-08-10",
         "duration": 10,
+        "next_time": "20:44",
         "reward": [
             "银币勋章"
         ]
@@ -349,6 +362,7 @@
         "start_date": "2025-08-08",
         "end_date": "2025-08-10",
         "duration": 10,
+        "next_time": "21:08",
         "reward": [
             "银币勋章"
         ]
@@ -364,6 +378,7 @@
         "start_date": "2025-08-08",
         "end_date": "2025-08-10",
         "duration": 10,
+        "next_time": "21:32",
         "reward": [
             "银币勋章"
         ]
@@ -379,6 +394,7 @@
         "start_date": "2025-08-08",
         "end_date": "2025-08-10",
         "duration": 10,
+        "next_time": "21:56",
         "reward": [
             "银币勋章"
         ]
@@ -409,6 +425,7 @@
         "start_date": "2025-08-15",
         "end_date": "2025-08-17",
         "duration": 10,
+        "next_time": "20:44",
         "reward": [
             "银币勋章"
         ]
@@ -424,6 +441,7 @@
         "start_date": "2025-08-15",
         "end_date": "2025-08-17",
         "duration": 10,
+        "next_time": "21:08",
         "reward": [
             "银币勋章"
         ]
@@ -439,6 +457,7 @@
         "start_date": "2025-08-15",
         "end_date": "2025-08-17",
         "duration": 10,
+        "next_time": "21:32",
         "reward": [
             "银币勋章"
         ]
@@ -454,6 +473,7 @@
         "start_date": "2025-08-15",
         "end_date": "2025-08-17",
         "duration": 10,
+        "next_time": "21:56",
         "reward": [
             "银币勋章"
         ]
@@ -484,6 +504,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "13:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -502,6 +523,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "16:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -520,6 +542,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "19:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -538,6 +561,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "22:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -574,6 +598,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "13:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -592,6 +617,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "16:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -610,6 +636,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "19:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -628,6 +655,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "22:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -664,6 +692,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "14:15",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -682,6 +711,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "19:15",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -718,6 +748,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "15:45",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -736,6 +767,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "20:45",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -772,6 +804,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "16:45",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -790,6 +823,7 @@
         "start_date": null,
         "end_date": null,
         "duration": null,
+        "next_time": "21:45",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -826,6 +860,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "15:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -844,6 +879,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "18:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -862,6 +898,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "21:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -898,6 +935,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "15:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -916,6 +954,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "18:00",
         "reward": [
             "友情点",
             "绑定卢诺",
@@ -934,6 +973,7 @@
         "start_date": null,
         "end_date": null,
         "duration": 60,
+        "next_time": "21:00",
         "reward": [
             "友情点",
             "绑定卢诺",
