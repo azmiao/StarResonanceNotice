@@ -111,7 +111,7 @@
         "duration": 10,
         "next_time": "20:44",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -127,7 +127,7 @@
         "duration": 10,
         "next_time": "21:08",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -143,7 +143,7 @@
         "duration": 10,
         "next_time": "21:32",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -159,7 +159,7 @@
         "duration": 10,
         "next_time": "21:56",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -174,7 +174,7 @@
         "end_date": "2025-07-21",
         "duration": 10,
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -190,7 +190,7 @@
         "duration": 10,
         "next_time": "20:44",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -206,7 +206,7 @@
         "duration": 10,
         "next_time": "21:08",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -222,7 +222,7 @@
         "duration": 10,
         "next_time": "21:32",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -238,7 +238,7 @@
         "duration": 10,
         "next_time": "21:56",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -253,7 +253,7 @@
         "end_date": "2025-07-27",
         "duration": 10,
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -269,7 +269,7 @@
         "duration": 10,
         "next_time": "20:44",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -285,7 +285,7 @@
         "duration": 10,
         "next_time": "21:08",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -301,7 +301,7 @@
         "duration": 10,
         "next_time": "21:32",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -317,7 +317,7 @@
         "duration": 10,
         "next_time": "21:56",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
@@ -332,12 +332,12 @@
         "end_date": "2025-08-03",
         "duration": 10,
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "四期-星光花火夜(今日1/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第4期 8/8-8/9，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -348,12 +348,12 @@
         "duration": 10,
         "next_time": "20:44",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "四期-星光花火夜(今日2/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第4期 8/8-8/9，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -364,12 +364,12 @@
         "duration": 10,
         "next_time": "21:08",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "四期-星光花火夜(今日3/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第4期 8/8-8/9，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -380,12 +380,12 @@
         "duration": 10,
         "next_time": "21:32",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "四期-星光花火夜(今日4/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第4期 8/8-8/9，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -396,12 +396,12 @@
         "duration": 10,
         "next_time": "21:56",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "四期-星光花火夜(今日5/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第4期 8/8-8/9，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -411,12 +411,12 @@
         "end_date": "2025-08-10",
         "duration": 10,
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "五期-星光花火夜(今日1/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第5期 8/15-8/16，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -427,12 +427,12 @@
         "duration": 10,
         "next_time": "20:44",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "五期-星光花火夜(今日2/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第5期 8/15-8/16，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -443,12 +443,12 @@
         "duration": 10,
         "next_time": "21:08",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "五期-星光花火夜(今日3/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第5期 8/15-8/16，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -459,12 +459,12 @@
         "duration": 10,
         "next_time": "21:32",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "五期-星光花火夜(今日4/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第5期 8/15-8/16，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -475,12 +475,12 @@
         "duration": 10,
         "next_time": "21:56",
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
         "name": "五期-星光花火夜(今日5/5)",
-        "enable": true,
+        "enable": false,
         "content": "当前第5期 8/15-8/16，共5期",
         "day": "*/1",
         "day_of_week": null,
@@ -490,7 +490,7 @@
         "end_date": "2025-08-17",
         "duration": 10,
         "reward": [
-            "银币勋章"
+            "银质勋章"
         ]
     },
     {
