@@ -722,5 +722,155 @@
             "丰收食物",
             "神奇食物"
         ]
+    },    {
+        "name": "小伊别盯我！(今日1/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "0,2,4,6",
+        "hour": "11",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "14:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "小伊别盯我！(今日2/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "0,2,4,6",
+        "hour": "14",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "17:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "小伊别盯我！(今日3/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "0,2,4,6",
+        "hour": "17",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "21:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "小伊别盯我！(今日4/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "0,2,4,6",
+        "hour": "21",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },    {
+        "name": "气球捕获大作战(今日1/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "1,3,5,6",
+        "hour": "11",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "14:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "气球捕获大作战(今日2/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week":"1,3,5,6",
+        "hour": "14",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "17:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "气球捕获大作战(今日3/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "1,3,5,6",
+        "hour": "17",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": "21:00",
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
+    },
+    {
+        "name": "气球捕获大作战(今日4/4)",
+        "enable": true,
+        "content": null,
+        "day": null,
+        "day_of_week": "1,3,5,6",
+        "hour": "21",
+        "minute": "00",
+        "start_date": "2025-09-29",
+        "end_date": null,
+        "duration": 60,
+        "next_time": null,
+        "reward": [
+            "友情点",
+            "绑定卢诺",
+            "合金碎片",
+            "随机装备(紫/金)"
+        ]
     }
 ]
